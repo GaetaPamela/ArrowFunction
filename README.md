@@ -1,2 +1,2 @@
-# ArrowFunction
+# arrow-function
 Created with CodeSandbox
